@@ -78,9 +78,7 @@ If you want to read about using Atom or developing packages in Atom, the [Atom F
 
 #### Local development
 
-Atom Core and all packages can be developed locally. For instructions on how to do this, see the following sections in the [Atom Flight Manual](https://flight-manual.atom.io):
-
-* [Hacking on Atom Core][hacking-on-atom-core]
+For developing the project, each section is done locally.
 * [Contributing to Official Atom Packages][contributing-to-official-atom-packages]
 
 ### Pull Requests
@@ -93,7 +91,7 @@ The goals to be considered are:
 Please follow these steps to have your contribution considered by the maintainers:
 
 1. Follow the [styleguides](#styleguides)
-2. After you submit your pull request, verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
+2. Verify that all [status checks](https://help.github.com/articles/about-status-checks/) are passing  once the pull request is submitted. <details><summary>What if the status checks are failing?</summary>If a status check is failing, and you believe that the failure is unrelated to your change, please leave a comment on the pull request explaining why you believe the failure is unrelated. A maintainer will re-run the status check for you. If we conclude that the failure was a false positive, then we will open an issue to track that problem with our status check suite.</details>
 
 While the prerequisites above must be satisfied prior to having your pull request reviewed, the reviewer(s) may ask you to complete additional design work, tests, or other changes before your pull request can be ultimately accepted.
 
