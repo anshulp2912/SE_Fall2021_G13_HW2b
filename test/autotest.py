@@ -1,17 +1,21 @@
-import os
+import unittest
+from calculator import calculator
 
-print(os.getcwd())
-
-def test_add():
-    assert add(2, 3) == 5 , 'TEST_PASS'
-    assert add('xyz','abc') != 'xyzabc' , "TEST_FAIL:Please enter numeric values only"
+class TestCalculator(unittest.TestCase):
+	def setUp(self):
+		self.calc=calculator()
+	
+	def test_add(self):
+		self.assertEqual(self.calc.add(4,7), 11)
+	
+	def test_subtract(self):
+		self.assertEqual(self.calc.subtract(10,5), 5)
+	
+	def test_multiply(self):
+		self.assertEqual(self.calc.multiply(3,7), 21)
+	
+	def test_divide(self):
+		self.assertEqual(self.calc.divide(10,2), 5)   
     
-def test_subtract():
-  assert subtract(10,4) == 6 , "TEST_PASS"
-  
-def test_multiply():
-  assert multiply(10,6) == 60 , "TEST_PASS"
-  assert multiply("abc",2) != "abcabc" , "TEST_FAIL:Please enter numeric values only"
-
-def test_divide():
-  assert divide(10,5) == 2 , "TEST_PASS"
+if __name__ == "__main__":
+  unittest.main()
