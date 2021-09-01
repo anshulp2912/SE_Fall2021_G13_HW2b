@@ -4,13 +4,16 @@ The following is a set of guidelines for contributing to "Calculator" and its pa
 
 ## Table of Contents
 [Code of Conduct](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CODE_OF_CONDUCT.md) <br>
-[How can I Contribute](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#how-can-i-contribute)
-[Suggesting Enhancements](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#suggesting-enhancements)
+[How can I Contribute](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#how-can-i-contribute) <br>
+[Suggesting Enhancements](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#suggesting-enhancements) <br>
+[Style Guide](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#styleguides) <br>
+[References](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#references)
 
 ## Code of Conduct
 This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to anshulp2912@gmail.com.
+
 ## How can I Contribute
-#### Reporting Bugs 
+### Reporting Bugs 
 This section gives detailed information on how to report bugs. Reporting a bug will help the community and maintainers of the repository. <br>
 Before reporting any bug, make sure it is correct and you have all the details with you. Fot creating any bug report, please fill out [the required template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md). This template will give us necessary information to help solve a bug faster.
 
@@ -61,7 +64,7 @@ Any suggesting enhancements like adding new features or imporving existing funct
 * To include a crash report, add a stack trace from the operating system. For macOS, `Console.app` under "Diagnostic and usage information" > "User diagnostic reports" has crash report. Include the crash report in the issue in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines), a [file attachment](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/), or put it in a [gist](https://gist.github.com/) and provide link to that gist.
 * For performance or memory issues, include a [CPU profile capture](https://flight-manual.atom.io/hacking-atom/sections/debugging/#diagnose-runtime-performance) with your report.
 
-### Start Your Contribution
+#### Start Your Contribution
 
 `beginner` and `help-wanted` issues can help you getting started to contribute your first contribution:
 
@@ -73,7 +76,7 @@ Any suggesting enhancements like adding new features or imporving existing funct
 For developing the project, each section is done locally.
 * [Contributing to Calculator](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md)
 
-### Pull Requests
+#### Pull Requests
 
 The goals to be considered are:
 - Focus of problems that are more valuable to users of the platform
@@ -89,7 +92,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
 ## Styleguides
 
-### Git Commit Messages
+#### Git Commit Messages
 
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
@@ -116,7 +119,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
 
   ```
 
-### CoffeeScript Styleguide
+#### CoffeeScript Styleguide
 
 * Set parameter defaults without spaces around the equal sign
     * `clear = (count=1) ->` instead of `clear = (count = 1) ->`
@@ -146,7 +149,7 @@ While the prerequisites above must be satisfied prior to having your pull reques
     * Instance methods and properties
 
 
-### Documentation Styleguide
+#### Documentation Styleguide
 
 * Use [Markdown](https://daringfireball.net/projects/markdown).
 * Reference methods and classes in markdown with the custom `{}` notation:
