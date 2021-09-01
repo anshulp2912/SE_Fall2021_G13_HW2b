@@ -13,7 +13,6 @@ This repo contains basic python script to mimic Calculator functionality. The ma
 
 ## Getting Started
 
-
 These instructions will give you a copy of the project up and running on
 your local machine for development and testing purposes. See deployment
 for notes on deploying the project on a live system.
@@ -21,15 +20,11 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 You will require a 64 bit Windows 10 system or an equivalent iOS device.
-Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
 
 ### Installing
 
-Please use the following code in command prompt:
-
-    pip install -r [requirements.txt](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/requirements.txt)
+Please use the following code in command prompt:<br>
+pip install -r [requirements.txt](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/requirements.txt)
 
 ## Running the tests
 
