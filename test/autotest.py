@@ -1,4 +1,5 @@
 import unittest
+sys.path.append(os.path.abspath('../code'))
 import code.calculator
 
 class TestCalculator(unittest.TestCase):
