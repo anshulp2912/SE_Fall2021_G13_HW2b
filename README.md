@@ -4,6 +4,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/anshulp2912/SE_Fall2021_G13_HW2b)](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/network)
 [![GitHub issues](https://img.shields.io/github/issues/anshulp2912/SE_Fall2021_G13_HW2b?style=flat)](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/issues)
 [![GitHub license](https://img.shields.io/github/license/anshulp2912/SE_Fall2021_G13_HW2b?style=flat)](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/LICENSE)
+[![Build Status](https://app.travis-ci.com/anshulp2912/SE_Fall2021_G13_HW2b.svg?branch=main)](https://app.travis-ci.com/anshulp2912/SE_Fall2021_G13_HW2b)
 
 #  Basic stuff presented in an Awesome Repo
 ## SE_Fall2021_G13_HW2b
