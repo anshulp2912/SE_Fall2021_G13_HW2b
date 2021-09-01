@@ -9,7 +9,7 @@
 
 #  Basic stuff presented in an Awesome Repo
 ## SE_Fall2021_G13_HW2b
-One Paragraph of the project description
+This repo contains basic python script to mimic Calculator functionality. The main purpose of the repo is to learn how to package your code in a github repository.
 
 ## Getting Started
 
