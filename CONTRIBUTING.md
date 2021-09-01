@@ -5,6 +5,7 @@ The following is a set of guidelines for contributing to "Calculator" and its pa
 ## Table of Contents
 [Code of Conduct](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CODE_OF_CONDUCT.md) <br>
 [How can I Contribute](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#how-can-i-contribute)
+[Suggesting Enhancements](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md#suggesting-enhancements)
 
 ## Code of Conduct
 This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to anshulp2912@gmail.com.
@@ -20,7 +21,7 @@ The following is a list of items you need to check before submitting a bug repor
 [cursory search](https://github.com/search?q=+is%3Aissue+user%3Aatom) A cursory search is necessary to check if the reported bug is already mentioned before or not. You can add to the existing bug report if the issue is still open.
 
 #### To Submit A Good Bug Report
-[GitHub issues](https://guides.github.com/features/issues/) You can trach the bugs from this. For the repository that has bug, create an issue and fill out [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) to give details of the bug.
+[GitHub issues](https://guides.github.com/features/issues/) You can track the bugs from this. For the repository that has bug, create an issue and fill out [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) to give details of the bug.
 
 
 * To identify the problem, give the issue a clear and informative term. <br>
@@ -41,7 +42,7 @@ Provide more context by answering these questions: <br>
 ## Suggesting Enhancements
 
 Any suggesting enhancements like adding new features or imporving existing functionalities, etc can done by following the below guidelines. They help maintainers understand your improvement. <br>
-[the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)- thi stemplate is to be filled to add suggestions. These can include the steps that you imagine you would take if the feature you're requesting existed.
+[the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/feature_request.md)- this template is to be filled to add suggestions. These can include the steps that you imagine you would take if the feature you're requesting existed.
 
 ##### Before Submitting An Enhancement Suggestion
 
@@ -50,7 +51,7 @@ Any suggesting enhancements like adding new features or imporving existing funct
 
 #### To Submit A Good Enhancement Suggestion
 
-[GitHub issues](https://guides.github.com/features/issues/) You can trach the bugs from this. For the repository that has bug, create an issue and fill out [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) to give details of the bug.
+[GitHub issues](https://guides.github.com/features/issues/) You can track the bugs from this. For the repository that has bug, create an issue and fill out [the template](https://github.com/atom/.github/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) to give details of the bug.
 
 * To identify the problem, give the issue a clear and informative term. <br>
 * Describe in as much detail as possible to duplicate the problem. Explain the problem and explain about the exact command sused in the terminal which caus ethe bug to occur.
