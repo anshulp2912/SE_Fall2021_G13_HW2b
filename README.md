@@ -9,49 +9,57 @@
 
 #  Basic stuff presented in an Awesome Repo
 ## SE_Fall2021_G13_HW2b
+### Table of Contents
+- [Getting Started](#GettingStarted)
+    - [Prerequisites](#prerequisites)
+    - [Installing](#installing)
+- [Running the tests](#runtest)
+    - [Sample Tests](#sampletest)
+    - [Style Test](#styletest)
+- [Built with](#built)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
+- [License](#license)
+- [Acknowledgments](#acknowledgement)
+## Getting Started <a name="GettingStarted"></a>
+
 This repo contains basic python script to mimic Calculator functionality. The main purpose of the repo is to learn how to package your code in a github repository.
 
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 You will require a 64 bit Windows 10 system or an equivalent iOS device.
 
-### Installing
+### Installing <a name="installing"></a>
 
-Please use the following code in command prompt:<br>
-pip install -r [requirements.txt](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/requirements.txt)
+Please use the following code in command prompt [requirements.txt](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/requirements.txt):<br>
+    pip install -r requirements.txt
 
-## Running the tests
+## Running the tests <a name="runtest"></a>
 
 Explain how to run the automated tests for this system
 
-### Sample Tests
+### Sample Tests <a name="sampletest"></a>
 
 Explain what these tests test and why
 
     Give an example
 
-### Style test
+### Style test <a name="styletest"></a>
 
 Check out the [Style guide](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md) for Coding conventions for any future contributions.
 
-## Built With
+## Built With <a name="built"></a>
 
   - Passion
   - Dream
   - Integrity
 
-## Contributing
+## Contributing <a name="contributing"></a>
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
 of conduct, and the process for submitting pull requests to us.
 
-## Contributors
+## Contributors <a name="contributors"></a>
 
   - Anshul Navinbhai Patel
   - Bhavya Omprakash Agrawal
@@ -59,12 +67,12 @@ of conduct, and the process for submitting pull requests to us.
   - Pragna Bollam
   - Rohan Jigarbhai Shah
 
-## License
+## License <a name="license"></a>
 
 This project is licensed under the terms of the MIT license.
-Please check [Licence](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/LICENSE) for more details.
+Please check [License](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/LICENSE) for more details.
 
-## Acknowledgments
+## Acknowledgments <a name="acknowledgement"></a>
 
   - Hat tip to anyone whose code is used
   - Inspiration
