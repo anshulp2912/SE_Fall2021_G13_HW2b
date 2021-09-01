@@ -36,22 +36,13 @@ Describe in as much detail as possible to duplicate the problem. Start by descri
 * **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Provide more context by answering these questions:
-
-* **Can you reproduce the problem in [safe mode](https://flight-manual.atom.io/hacking-atom/sections/debugging/#diagnose-runtime-performance-problems-with-the-dev-tools-cpu-profiler)?**
-* **Did the problem start happening recently** (e.g. after updating to a new version of Atom) or was this always a problem?
-* If the problem started happening recently, **can you reproduce the problem in an older version of Atom?** What's the most recent version in which the problem doesn't happen? You can download older versions of Atom from [the releases page](https://github.com/atom/atom/releases).
-* **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
-* If the problem is related to working with files (e.g. opening and editing files), **does the problem happen for all files and projects or only some?** Does the problem happen only when working with local or remote files (e.g. on network drives), with files of a specific type (e.g. only JavaScript or Python files), with large files or files with very long lines, or with files in a specific encoding? Is there anything else special about the files you are using?
+If the problem started happening recently then try downloading the old version of the packages and the code.
 
 Include details about your configuration and environment:
 
-* **Which version of Atom are you using?** You can get the exact version by running `atom -v` in your terminal, or by starting Atom and running the `Application: About` command from the [Command Palette](https://github.com/atom/command-palette).
-* **What's the name and version of the OS you're using**?
-* **Are you running Atom in a virtual machine?** If so, which VM software are you using and which operating systems and versions are used for the host and the guest?
-* **Which [packages](#atom-and-packages) do you have installed?** You can get that list by running `apm list --installed`.
-* **Are you using [local configuration files](https://flight-manual.atom.io/using-atom/sections/basic-customization/)** `config.cson`, `keymap.cson`, `snippets.cson`, `styles.less` and `init.coffee` to customize Atom? If so, provide the contents of those files, preferably in a [code block](https://help.github.com/articles/markdown-basics/#multiple-lines) or with a link to a [gist](https://gist.github.com/).
-* **Are you using Atom with multiple monitors?** If so, can you reproduce the problem when you use a single monitor?
-* **Which keyboard layout are you using?** Are you using a US layout or some other layout?
+What is the name and version of the OS you're using?
+Are you running the project in a virtual environment?
+Which packages have installed in your system? You can get a list of packages installed by running 'apm list --installed'
 
 ### Suggesting Enhancements
 
