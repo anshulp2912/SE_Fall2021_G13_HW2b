@@ -41,9 +41,11 @@ Explain how to run the automated tests for this system
 
 ### Sample Tests <a name="sampletest"></a>
 
-Explain what these tests test and why
-
-    Give an example
+Sample test cases are added for addition, subtraction, multiplication and division. <br>
+     - For addition : Checks if the function returns 11 when 4 and 7 are passed as parameters. <br>
+     - For subraction : Checks if the function returns 5 when 10 and 5 are passed as parameters. <br>
+     - For multiplication : Checks if the function returns 21 when 3 and 7 are passed as parameters. <br>
+     - For division : Checks if the function returns 10 when 2 and 5 are passed as parameters. <br>
 
 ### Style test <a name="styletest"></a>
 
