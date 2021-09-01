@@ -5,6 +5,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/anshulp2912/SE_Fall2021_G13_HW2b?style=flat)](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/issues)
 [![GitHub license](https://img.shields.io/github/license/anshulp2912/SE_Fall2021_G13_HW2b?style=flat)](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/LICENSE)
 [![Build Status](https://app.travis-ci.com/anshulp2912/SE_Fall2021_G13_HW2b.svg?branch=main)](https://app.travis-ci.com/anshulp2912/SE_Fall2021_G13_HW2b)
+[![DOI](https://zenodo.org/badge/400851928.svg)](https://zenodo.org/badge/latestdoi/400851928)
 
 #  Basic stuff presented in an Awesome Repo
 ## SE_Fall2021_G13_HW2b
