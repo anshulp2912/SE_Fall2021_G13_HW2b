@@ -1,6 +1,6 @@
 import os
 
-print(os.pwd)
+print(os.getpwd())
 
 def test_add():
     assert add(2, 3) == 5 , 'TEST_PASS'
