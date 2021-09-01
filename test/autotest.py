@@ -1,8 +1,5 @@
-import unittest
-import sys
-import os
-sys.path.append(os.path.abspath('../code'))
-import code.calculator
+import unittestS
+from calculator import *
 
 class TestCalculator(unittest.TestCase):
 	def setUp(self):
