@@ -35,14 +35,12 @@ Describe in as much detail as possible to duplicate the problem. Start by descri
 * **If Chrome's developer tools pane is shown without you triggering it**, that normally means that you have a syntax error in one of your themes or in your `styles.less`. Try running in [Safe Mode](https://flight-manual.atom.io/hacking-atom/sections/debugging/#using-safe-mode) and using a different theme or comment out the contents of your `styles.less` to see if that fixes the problem.
 * **If the problem wasn't triggered by a specific action**, describe what you were doing before the problem happened and share more information using the guidelines below.
 
-Provide more context by answering these questions:
-If the problem started happening recently then try downloading the old version of the packages and the code.
-
-Include details about your configuration and environment:
-
-What is the name and version of the OS you're using?
-Are you running the project in a virtual environment?
-Which packages have installed in your system? You can get a list of packages installed by running 'apm list --installed'
+Provide more context by answering these questions: <br>
+* If the problem started happening recently then try downloading the old version of the packages and the code.
+* Include details about your configuration and environment.
+* What is the name and version of the OS you're using?
+* Are you running the project in a virtual environment?
+* Which packages have installed in your system? You can get a list of packages installed by running 'apm list --installed'
 
 ### Suggesting Enhancements
 
