@@ -4,12 +4,12 @@ import os
 print('cwd',os.getcwd())
 print('files: ',os.listdir())
 import unittest
-from src.calculator import Calculator
+from src import calculator
 
 
 class TestCalculator(unittest.TestCase):
 	def setUp(self):
-		self.calc=Calculator()
+		self.calc=calculator.Calculator()
 	
 	def test_add(self):
 		self.assertEqual(self.calc.add(4,7), 11)
