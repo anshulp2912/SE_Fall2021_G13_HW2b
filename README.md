@@ -16,7 +16,6 @@
 - [Running the tests](#runtest)
     - [Sample Tests](#sampletest)
     - [Style Test](#styletest)
-- [Built with](#built)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 - [License](#license)
@@ -58,11 +57,11 @@ of conduct, and the process for submitting pull requests to us.
 
 ## Contributors <a name="contributors"></a>
 
-  - Anshul Navinbhai Patel
-  - Bhavya Omprakash Agrawal
-  - Darshan Manharbhai Patel
-  - Pragna Bollam
-  - Rohan Jigarbhai Shah
+  - Anshul Navinbhai Patel (apatel28)
+  - Bhavya Omprakash Agrawal (bagrawa)
+  - Darshan Manharbhai Patel (dpatel35)
+  - Pragna Bollam (pbollam)
+  - Rohan Jigarbhai Shah (rshah29)
 
 ## License <a name="license"></a>
 
@@ -72,3 +71,7 @@ Please check [License](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/
 ## Acknowledgments <a name="acknowledgement"></a>
 
 We would like to thank Professor Dr Timothy Menzies for helping us understand the importance of building a good GitHub repository. We would also like to thank the teaching assistants Xiao Ling, Andre Lustosa, Kewen Peng, Weichen Shi for their support throughout the assignment.
+Other Resources used:
+- https://dev.to/kyechan99/make-your-profile-readme-colorful-3gag
+- https://shields.io/
+- https://github.com/PurpleBooth/a-good-readme-template
