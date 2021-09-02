@@ -27,7 +27,7 @@ This repo contains basic python script to mimic Calculator functionality. The ma
 
 ### Prerequisites <a name="prerequisites"></a>
 
-You will require a 64 bit Windows 10 system or an equivalent iOS device.
+You will require a 64 bit Windows 10 system or an equivalent iOS device, Python 3.5 or above.
 
 ### Installing <a name="installing"></a>
 
@@ -50,12 +50,6 @@ Sample test cases are added for addition, subtraction, multiplication and divisi
 ### Style test <a name="styletest"></a>
 
 Check out the [Style guide](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md) for Coding conventions for any future contributions.
-
-## Built With <a name="built"></a>
-
-  - Passion
-  - Dream
-  - Integrity
 
 ## Contributing <a name="contributing"></a>
 
