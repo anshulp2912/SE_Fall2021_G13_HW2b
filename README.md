@@ -27,7 +27,7 @@ This repo contains basic python script to mimic Calculator functionality. The ma
 
 ### Prerequisites <a name="prerequisites"></a>
 
-You will require a 64 bit Windows 10 system or an equivalent iOS device.
+You will require a 64 bit Windows 10 system or an equivalent iOS device, Python 3.5 or above.
 
 ### Installing <a name="installing"></a>
 
@@ -51,12 +51,6 @@ Sample test cases are added for addition, subtraction, multiplication and divisi
 
 Check out the [Style guide](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/main/CONTRIBUTING.md) for Coding conventions for any future contributions.
 
-## Built With <a name="built"></a>
-
-  - Passion
-  - Dream
-  - Integrity
-
 ## Contributing <a name="contributing"></a>
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
@@ -77,6 +71,4 @@ Please check [License](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/
 
 ## Acknowledgments <a name="acknowledgement"></a>
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+We would like to thank Professor Dr Timothy Menzies for helping us understand the importance of building a good GitHub repository. We would also like to thank the teaching assistants Xiao Ling, Andre Lustosa, Kewen Peng, Weichen Shi for their support throughout the assignment.
