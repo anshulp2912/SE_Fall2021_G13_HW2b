@@ -1,3 +1,5 @@
+import sys
+sys.path.insert(0, '../src')
 import unittest
 from src.calculator import Calculator
 
