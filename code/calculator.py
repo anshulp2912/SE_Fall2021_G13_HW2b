@@ -1,4 +1,4 @@
-class calculator:
+class Calculator:
 	@staticmethod
 	def add(num1, num2):
 		if (type(num1) == int or float) and (type(num2) == int or float):
