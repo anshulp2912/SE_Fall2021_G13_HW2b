@@ -2,6 +2,8 @@ import sys
 sys.path.insert(0, '../src')
 import unittest
 from src.calculator import Calculator
+import os
+print('cwd',os.getcwd())
 
 class TestCalculator(unittest.TestCase):
 	def setUp(self):
