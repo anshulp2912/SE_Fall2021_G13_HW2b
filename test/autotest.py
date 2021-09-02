@@ -1,10 +1,12 @@
 import sys
-#sys.path.insert(0, '../src')
 import os
+#sys.path.insert(0, '../src')
+sys.path.append(os.getcwd()+'/src')
+
 print('cwd',os.getcwd())
 print('files: ',os.listdir())
 import unittest
-from src import calculator
+import calculator
 
 
 class TestCalculator(unittest.TestCase):
