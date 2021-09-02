@@ -77,6 +77,4 @@ Please check [License](https://github.com/anshulp2912/SE_Fall2021_G13_HW2b/blob/
 
 ## Acknowledgments <a name="acknowledgement"></a>
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+We would like to thank Professor Dr Timothy Menzies for helping us understand the importance of building a good GitHub repository. We would also like to thank the teaching assistants Xiao Ling, Andre Lustosa, Kewen Peng, Weichen Shi for their support throughout the assignment.
