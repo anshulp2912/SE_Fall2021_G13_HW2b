@@ -2,6 +2,7 @@ import sys
 sys.path.insert(0, '../src')
 import os
 print('cwd',os.getcwd())
+print('files: ',os.listdir())
 import unittest
 from src.calculator import Calculator
 
